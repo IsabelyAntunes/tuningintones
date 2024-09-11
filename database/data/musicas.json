@@ -1,0 +1,164 @@
+[
+	{
+		"id": 1001,
+		"titulo": "Dance The Night",		
+		"artista": "Dua Lipa",
+    "genero": "Pop",
+		"composicao": "Dua Lipa, Andrew Wyatt, Caroline Ailin e Andrew Wyatt",
+		"ano_lancamento": 2023,
+		"img_capa": "https://lh3.googleusercontent.com/JYdNiNuPjx77IinIvYuAkTwKMj3-S4zedoQbX57E9NAfta-3chsSp-zwIMZO9BaInVA8_k-GzRfoa7pR=w544-h544-l90-rj"
+	},
+  {
+    "id": 1002,
+    "titulo": "Vienna",
+    "artista": "Billy Joel",
+    "genero": "Soft Rock, Contemporânea",
+    "composicao": "Billy Joel",
+    "ano_lancamento": 1977,
+    "img_capa": "https://lh3.googleusercontent.com/_dFCvBwPKoof78gcPpg65i1YjM7lddJyHGf0apw7QVJ6t9EHGZjp7tgh6HV5hfOO1pszDikkbIjOvWOw=w544-h544-l90-rj"
+  },
+  {
+    "id": 1003,
+    "titulo": "The Way",
+    "artista": "Ariana Grande",
+    "genero": "R&B/soul, Pop",
+    "composicao": "Harmony Samuels, Malcolm James McCormick, Jordin Sparks, Amber Streeter, Al Sherrod Lambert, Brenda Russell",
+    "ano_lancamento": 2013,
+    "img_capa": "https://lh3.googleusercontent.com/cwJUlOPNvE63q6JxQgIMHjF03yf6NQIBWB4i0hY6l8U125A16HwbJ7tnQqz74CAxtU_9CwY8IAxOz3ku=w544-h544-l90-rj"
+  },
+  {
+    "id": 1004,
+    "titulo": "Bad Blood",
+    "artista": "Taylor Swift, Kendrick Lamar",
+    "genero": "Electropop, Pop",
+    "composicao": "Taylor Swift, Kendrick Lamar, Max Martin, Shellback",
+    "ano_lancamento": 2014,
+    "img_capa": "https://upload.wikimedia.org/wikipedia/pt/3/36/Capa_de_Bad_Blood_%28Remix%29.png"
+  },
+  {
+    "id": 1005,
+    "titulo": "Tô Voltando",
+    "artista": "Ana Castela",
+    "genero": "Sertanejo, Agronejo",
+    "composicao": "Rodolfo Alessi, Raphael Soares, Renato Campero e Mateus Félix",
+    "ano_lancamento": 2023,
+    "img_capa": "https://p16.resso.me/img/tos-alisg-v-2102/8e64f2e55f6045d4838c3738dcafbd87~c5_1000x1000.jpg"
+  },
+  {
+    "id": 1006,
+    "titulo": "Video Games",
+    "artista": "Lana Del Rey",
+    "genero": "Indie pop, pop barroco",
+    "composicao": "Lana Del Rey, Justin Parker",
+    "ano_lancamento": 2011,
+    "img_capa": "https://lh3.googleusercontent.com/F5k4fYPgIA1lnykIMM0dqji6pKcpAgc26CAJB8Z3OCaCSfpyBMUM6ruxvbgpU8GTZfNELXP9dpf4BxlT=w544-h544-l90-rj"
+  },
+  {
+    "id": 1007,
+    "titulo": "Breakfast",
+    "artista": "Dove Cameron",
+    "genero": "Alternativa/indie",
+    "composicao": "Brittany Marie Amaradio, Dove Cameron, Evan Blair, Jesse Fink",
+    "ano_lancamento": 2022,
+    "img_capa": "https://lastfm.freetls.fastly.net/i/u/500x500/1c4ca6358601a6a3a3b2ffd5d2f07b39.jpg"
+  },
+  {
+    "id": 1008,
+    "titulo": "Marry You",
+    "artista": "Bruno Mars",
+    "genero": "Pop, R&B, Soul",
+    "composicao": "Bruno Mars",
+    "ano_lancamento": 2011,
+    "img_capa": "https://akamai.sscdn.co/uploadfile/letras/albuns/1/d/9/4/2556.jpg"
+  },
+  {
+    "id": 1009,
+    "titulo": "What Was I Made For?",
+    "artista": "Billie Eilish",
+    "genero": "Pop",
+    "composicao": "Billie Eilish O'Connell e Finneas O'Connell",
+    "ano_lancamento": 2023,
+    "img_capa": "https://upload.wikimedia.org/wikipedia/en/5/54/Billie_Eilish_-_What_Was_I_Made_For%3F.png"
+  },
+  {
+    "id": 1010,
+    "titulo": "You're on Your Own, Kid",
+    "artista": "Taylor Swift",
+    "genero": "Alternative pop, alternative rock, pop rock, synth-pop",
+    "composicao": "Taylor Swift e Jack Antonoff",
+    "ano_lancamento": 2022,
+    "img_capa": "https://akamai.sscdn.co/uploadfile/letras/albuns/a/5/c/f/1398201666349375.jpg"
+  },
+  {
+    "id": 1011,
+    "titulo": "Here Comes the Sun",
+    "artista": "The Beatles",
+    "genero": "Folk-pop",
+    "composicao": "George Harrison",
+    "ano_lancamento": 1969,
+    "img_capa": "https://viagemladob.com/wp-content/uploads/beatles-abbeyroad.webp"  
+  },
+  {
+    "id": 1012,
+    "titulo": "Road Trippin'",
+    "artista": "Red Hot Chili Peppers",
+    "genero": "Rock alternativo",
+    "composicao": "Flea, Frusciante, Kiedis e Smith",
+    "ano_lancamento": 2000,
+    "img_capa": "https://i.discogs.com/WY6NumaltXHOyAXDZypbjqxqffA0vzsRCIq7yMPri_8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTg4/OTItMTQ2NzI4OTk5/MC01NzQxLmpwZWc.jpeg"
+  },
+  {
+    "id": 1013,
+    "titulo": "Pé Na Areia",
+    "artista": "Diogo Nogueira",
+    "genero": "Samba e pagode",
+    "composicao": "Cauique, Diogo Leite e Rodrigo Leite",
+    "ano_lancamento": 2016,
+    "img_capa": "https://static.qobuz.com/images/covers/09/53/0060255715309_600.jpg"
+  },
+  {
+    "id": 1014,
+    "titulo": "telepatía",
+    "artista": "Kali Uchis",
+    "genero": "R&B",
+    "composicao": "Karly-Marina Loaiza, Cristina Chiluiza, Servando Primera, Manuel Lara, Albert Melendez, Marco Masís",
+    "ano_lancamento": 2021,
+    "img_capa": "https://akamai.sscdn.co/uploadfile/letras/albuns/7/6/3/4/987251605792119.jpg"
+  },
+  {
+    "id": 1015,
+    "titulo": "Matilda",
+    "artista": "Harry Styles",
+    "genero": "Folk",
+    "composicao": "Harry Styles, Thomas Hull, Tyler Johnson, Amy Allen",
+    "ano_lancamento": 2022,
+    "img_capa": "https://akamai.sscdn.co/uploadfile/letras/albuns/0/1/1/a/01653041095.jpg"
+  },
+  {
+    "id": 1016,
+    "titulo": "Penhasco 2",
+    "artista": "Luísa Sonza",
+    "genero": "Pop",
+    "composicao": "Luísa Sonza, Demi Lovato, Douglas Moda, DAY, Carol Biazin, André Jordão, Papatinho, Roy Lenzo",
+    "ano_lancamento": 2023,
+    "img_capa": "https://s2-g1.glbimg.com/EuTkpEMD292_53hGa9SfOchYX6I=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/X/6/cYc98bTnOlG3ROATdxiQ/luisasonza.jpg"
+  },
+  {
+    "id": 1017,
+    "titulo": "We Fell in Love in October",
+    "artista": "Girl in Red",
+    "genero": "Indie pop",
+    "composicao": "Marie Ulven",
+    "ano_lancamento": 2018,
+    "img_capa": "https://upload.wikimedia.org/wikipedia/en/8/87/We_Fell_in_Love_In_October_-_Girl_in_Red.jpg"
+  },
+  {
+    "id": 1018,
+    "titulo": "Nem de Graça",
+    "artista": "Pixote",
+    "genero": "Pagode",
+    "composicao": "Pixote",
+    "ano_lancamento": 2019,
+    "img_capa": "https://i1.sndcdn.com/artworks-EF31i5ZLCIyOoeYt-BUb0XQ-t500x500.jpg"
+  }
+]
